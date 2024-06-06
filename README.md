@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @yunuen-olvera
-- 🐶 I’m interested in design, photography, paper engineering and web design. And dogs. And books
-- 🌱 I’m currently learning Web design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hola@yunuenolvera.com
 - 😄 Pronouns: she/her
+- 🐶 I’m interested in design, photography, paper engineering and web design. And dogs. And books
+- 📍 Location: Queretaro, Mexico 🇲🇽
+- 📣 Languages: English & Spanish & et un petit peu Français
+- 🌱 I’m currently learning Web design
+- 📫 How to reach me hola@yunuenolvera.com
 - ⚡ Fun fact: I'm a mix between Monica Geller and Phoebe Buffay
 - 🌻 See more about me: citlalliyunuen.com
 
