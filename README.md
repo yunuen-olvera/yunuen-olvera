@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yunuen-olvera
-- 🐶 I’m interested in design, photography, paper engineering and web design. And dogs
+- 🐶 I’m interested in design, photography, paper engineering and web design. And dogs. And books
 - 🌱 I’m currently learning Web design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hola@yunuenolvera.com
