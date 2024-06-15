@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Web design
 - 📫 How to reach me hola@yunuenolvera.com
 - ⚡ Fun fact: I'm a mix between Monica Geller and Phoebe Buffay
-- 🌻 See more about me: bento.me/yunuen-olvera
 
 <!---
 yunuen-olvera/yunuen-olvera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
